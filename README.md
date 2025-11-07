@@ -1,6 +1,6 @@
 # vue-calendar-task
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
